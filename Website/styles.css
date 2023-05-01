@@ -1,0 +1,101 @@
+/* Not Fonts */
+
+body {
+  font-family: Rocko;
+  color: #fff;
+  background-color: #4cce93;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 100;
+}
+
+a {
+  font-size: 18px;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #ffffff50;
+}
+
+
+/* Fonts */
+@font-face {
+    font-family: Whitney;
+    font-weight: normal;
+    src: url(fonts/whitney/whitney-medium.otf) format("opentype");
+    }
+    
+  @font-face {
+    font-family: Whitney;
+    font-weight: bold;
+    src: url(fonts/whitney/whitney-bold.otf) format("opentype");
+  }
+      
+  @font-face {
+    font-family: Whitney;
+    font-weight: lighter;
+    src: url(fonts/whitney/whitney-light.otf) format("opentype");
+  }
+    
+  @font-face {
+    font-family: Whitney Italic;
+    font-weight: normal;
+    src: url(fonts/whitney/whitney-mediumitalic.otf) format("opentype");
+  }
+  
+        @font-face {
+    font-family: Whitney Italic;
+    font-weight: bold;
+    src: url(fonts/whitney/whitney-semibolditalic.otf) format("opentype");
+  }
+  
+  @font-face {
+    font-family: Whitney Italic;
+    font-weight: lighter;
+    src: url(fonts/whitney/whitney-lightitalic.otf) format("opentype");
+  }
+  
+  @font-face {
+    font-family: Whitney Book;
+    font-weight: normal;
+    src: url(fonts/whitney/whitneybook.otf) format("opentype");
+  }
+  
+  @font-face {
+    font-family: Whitney Book;
+    font-weight: lighter;
+    src: url(fonts/whitney/whitneybook-italic.otf) format("opentype");
+  }
+
+  @font-face {
+    font-family: Rocko;
+    font-weight: lighter;
+    src: url(fonts/rocko/RockoFLF.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: Rocko;
+    font-weight: bold;
+    src: url(fonts/rocko/RockoFLF-Bold.ttf) format("truetype");
+  }
