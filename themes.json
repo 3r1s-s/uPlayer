@@ -1,0 +1,14 @@
+{
+    "themes": {
+       "1": "{"name":"Default Neue","back":"#0f1f4a","front":"#060d22","text":"#fff"}",
+       "2": "{"name":"Light","back":"#999","front":"#bbb","text":"#fff"}",
+       "3": "{"name":"Darkest","back":"#000","front":"#111","text":"#fff"}",
+       "4": "{"name":"Darker","back":"#000","front":"#1b1b1b","text":"#fff"}",
+       "5": "{"name":"Pastel","back":"#6b7aa9","front":"#92a8e6","text":"#fff"}",
+       "6": "{"name":"Default Classic","back":"#1b1b1b","front":"#292929","text":"#fff"}",
+       "7": "{"name":"Teal","back":"#1a6762","front":"#25ada4","text":"#fff"}",
+       "8": "{"name":"Bloom","back":"#ffaabc","front":"#ff708f","text":"#ab2643"}",
+       "9": "{"name":"Crimson","back":"#a6242b","front":"#781318","text":"#fff"}",
+    },
+    "entries": 9
+ }
